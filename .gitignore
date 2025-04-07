@@ -1,0 +1,9 @@
+# Frontend
+node_modules/
+.DS_Store
+dist/
+
+# Backend
+__pycache__/
+*.pyc
+tmp/  # Temporary video storage (exclude contents but keep the folder)
